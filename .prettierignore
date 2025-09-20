@@ -1,4 +1,4 @@
-# Ignore cache directory for GitLab builds
+`# Ignore cache directory for GitLab builds
 /cache
 
 data
